@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python Control Flow Challenges", "Python Control Flow Challenges.pyproj", "{1B49CA69-7CEE-4AA1-818C-6B8075346391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B49CA69-7CEE-4AA1-818C-6B8075346391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B49CA69-7CEE-4AA1-818C-6B8075346391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37A170E8-4168-4E11-BC13-11360BDD5DB3}
+	EndGlobalSection
+EndGlobal
